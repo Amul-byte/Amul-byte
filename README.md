@@ -99,20 +99,7 @@
 
 ---
 
-### 📊 GitHub Summary Cards
-
-<!-- Make sure your workflow generated these files (dracula theme shown).
-     If your default branch is 'master', replace 'main' with 'master'. -->
-
-![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/3-stats.svg)
-![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/4-productive-time.svg)
-
----
-
-### 🔥 Streaks & Top Languages (optional)
+### 🔥 Streaks & Top Languages
 
 <!-- You can keep these in sync with your theme -->
 
