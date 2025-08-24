@@ -99,7 +99,7 @@
 
 ---
 
-### 📊 GitHub Summary Cards (auto-updated)
+### 📊 GitHub Summary Cards
 
 <!-- Make sure your workflow generated these files (dracula theme shown).
      If your default branch is 'master', replace 'main' with 'master'. -->
