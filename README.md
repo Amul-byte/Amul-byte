@@ -60,7 +60,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </a>
 
-
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
@@ -90,9 +89,24 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
 </a>
 
-
 <!-- scikit-learn -->
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
 </a>
 
+<!-- Profile details (big top card with stars/commits etc.) -->
+
+![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/0-profile-details.svg)
+
+<!-- Overall stats card (with circular grade) -->
+
+![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/3-stats.svg)
+
+<!-- Languages cards -->
+
+![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
+
+<!-- Productive time card -->
+
+![](https://raw.githubusercontent.com/Amul-byte/Amul-byte/main/profile-summary-card-output/dracula/4-productive-time.svg)
